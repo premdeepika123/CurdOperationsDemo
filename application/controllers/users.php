@@ -33,7 +33,7 @@ $this->user_model->create_users(
 public function update()
 {
 	$id=3;
-	$username='tony';
+	$username='mony';
 	$password='1234';
 
 $this->user_model->update_users(
